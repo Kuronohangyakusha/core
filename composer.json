@@ -1,0 +1,17 @@
+{
+    "name": "table001/core",
+    "autoload": {
+        "psr-4": {
+           "App\\Core\\Abstract\\": "core/abstract/",
+            "App\\Core\\Middlewares\\": "core/middlewares/",
+            "App\\Core\\":"core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kuronohangyakusha",
+            "email": "nndeyendiaye85@gmail.com"
+        }
+    ],
+    "require": {}
+}
